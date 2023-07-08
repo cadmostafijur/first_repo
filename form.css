@@ -1,0 +1,13 @@
+#form{
+    padding: 50px;
+    margin: 50px;
+    background-color: blue;
+    border: 10px;
+    border-color: violet;
+    align-items: center;
+
+}
+.all{
+    align-items: center;
+    
+}
